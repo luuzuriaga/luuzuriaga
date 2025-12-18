@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Lucero </h2>
 
+<br clear="both">
+<!-- Este es un comentario en README.md -->
 
 
 <div align="center">
@@ -13,7 +15,7 @@
 
 <br clear="both">
 <!-- Este es un comentario en README.md -->
-<br clear="both">
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
