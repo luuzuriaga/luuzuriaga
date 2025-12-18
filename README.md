@@ -73,7 +73,7 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 - 💟 **Styling & Layout:** Responsive Design · Flexbox · Grid · BEM Methodology  
 - 💟 **Tools & Workflow:** Git · GitHub · VS Code · npm · Chrome DevTools  
 - 💟 **UI / UX & Design:** Figma · Prototyping · Wireframing · User-Centered Design  
-
+<br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -105,8 +105,6 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 </div>
 
 ---
-
-<br clear="both">
 
 <img align="left" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
