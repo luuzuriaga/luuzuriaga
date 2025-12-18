@@ -11,6 +11,9 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
+<br clear="both">
+<!-- Este es un comentario en README.md -->
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -42,7 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
 </div>
 
+<br clear="both">
 <!-- Este es un comentario en README.md -->
+<br clear="both">
 
 <div align="center">
   <a href="https://www.youtube.com/@lu.uzuriaga" target="_blank">
