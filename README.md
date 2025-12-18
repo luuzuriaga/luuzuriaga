@@ -20,13 +20,7 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.youtube.com/@lu.uzuriaga" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" 
-      height="35" 
-      alt="YouTube Lu Uzuriaga"
-    />
-  </a>
+
 
   <a href="https://www.linkedin.com/in/lucerouzuriaga/" target="_blank">
     <img 
