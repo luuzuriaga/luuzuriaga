@@ -23,6 +23,45 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuzuriaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<!-- Este es un comentario en README.md -->
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.youtube.com/@lu.uzuriaga" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" 
+      height="35" 
+      alt="YouTube Lu Uzuriaga"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucerouzuriaga/" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" 
+      height="35" 
+      alt="LinkedIn Lucero Uzuriaga"
+    />
+  </a>
+
+  <a href="https://luuzuriaga.github.io/portfolio/" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge" 
+      height="35" 
+      alt="Portfolio Lucero Uzuriaga"
+    />
+  </a>
+
+  <a href="mailto:lucero.uzuriaga2020@gmail.com">
+    <img 
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
+      height="35" 
+      alt="Email Lucero Uzuriaga"
+    />
+  </a>
+</div>
+
+<!-- Este es un comentario en README.md -->
+
 ---
 
 🛠️ Technical Skills
@@ -74,44 +113,7 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 </div>
 
 <br clear="both">
-<!-- Este es un comentario en README.md -->
-<br clear="both">
 
-<div align="center">
-  <a href="https://www.youtube.com/@lu.uzuriaga" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" 
-      height="35" 
-      alt="YouTube Lu Uzuriaga"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucerouzuriaga/" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" 
-      height="35" 
-      alt="LinkedIn Lucero Uzuriaga"
-    />
-  </a>
-
-  <a href="https://luuzuriaga.github.io/portfolio/" target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge" 
-      height="35" 
-      alt="Portfolio Lucero Uzuriaga"
-    />
-  </a>
-
-  <a href="mailto:lucero.uzuriaga2020@gmail.com">
-    <img 
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
-      height="35" 
-      alt="Email Lucero Uzuriaga"
-    />
-  </a>
-</div>
-
-<!-- Este es un comentario en README.md -->
 
 <br clear="both">
 
