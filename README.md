@@ -108,9 +108,6 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 <img align="left" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
-<br clear="both">
-<!-- Este es un comentario en README.md -->
-
 
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
