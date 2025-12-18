@@ -9,10 +9,11 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 👩‍💻 About Me
 
-🌍 Based in Lima, Peru
-🎓 Systems and Computer Engineering student
-💻 Web Developer with hands-on experience in HTML, CSS, JavaScript, React, and UX/UI
-🎨 Background in digital communication and design, bringing a user-focused mindset to development
+
+🌍 Based in Lima, Peru  
+🎓 Systems and Computer Engineering student  
+💻 Web Developer with hands-on experience in HTML, CSS, JavaScript, React, and UX/UI  
+🎨 Background in digital communication and design, bringing a user-focused mindset to development  
 🌱 Continuously learning and improving through bootcamps, projects, and real-world challenges
 
 ---
