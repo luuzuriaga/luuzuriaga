@@ -23,7 +23,25 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuzuriaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+🛠️ Technical Skills
 
+**Frontend Development**  
+HTML5 · CSS3 · JavaScript (ES6+) · React  
+
+**Backend Development**  
+Node.js · Express · Java · Spring Boot · SQL · MySQL  
+
+**Styling & Layout**  
+Responsive Design · Flexbox · Grid · BEM Methodology  
+
+**Tools & Workflow**  
+Git · GitHub · VS Code · npm · Chrome DevTools  
+
+**UI / UX & Design**  
+Figma · Prototyping · Wireframing · User-Centered Design  
+
+
+<br clear="both">
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
