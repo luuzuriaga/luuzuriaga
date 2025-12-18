@@ -24,7 +24,6 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 </div>
 
 ---
-<br clear="both">
 
 🛠️ Technical Skills
 
@@ -34,7 +33,6 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 - ✅ **Tools & Workflow:** Git · GitHub · VS Code · npm · Chrome DevTools  
 - ✅ **UI / UX & Design:** Figma · Prototyping · Wireframing · User-Centered Design  
 
-<br clear="both">
 ---
 
 <br clear="both">
