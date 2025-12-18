@@ -7,6 +7,16 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 ---
 
+👩‍💻 About Me
+
+🌍 Based in Lima, Peru
+🎓 Systems and Computer Engineering student
+💻 Web Developer with hands-on experience in HTML, CSS, JavaScript, React, and UX/UI
+🎨 Background in digital communication and design, bringing a user-focused mindset to development
+🌱 Continuously learning and improving through bootcamps, projects, and real-world challenges
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luuzuriaga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuzuriaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
