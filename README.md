@@ -3,8 +3,10 @@
 <br clear="both">
 <!-- Este es un comentario en README.md -->
 
-I’m a Web Developer with a strong foundation in Frontend Development and UX/UI, passionate about building responsive, accessible, and user-centered web experiences. I combine technical skills with design thinking to create clean, functional, and visually appealing digital products.
-
+I’m a Web Developer and Systems and Computer Engineering student at Universidad Continental, with experience in frontend development (HTML, CSS, JavaScript, React) and basic backend knowledge (Node.js, Java, APIs).  
+I completed intensive bootcamps at TripleTen and Alura ONE, gaining hands-on experience in responsive design, UX/UI, and full web application development.  
+Passionate about technology and continuous learning, I enjoy building digital solutions that are accessible, functional, and user-centered.  
+Career goal: Grow as a Web / Frontend / Full Stack Developer, contributing to impactful projects while improving my skills.
 ---
 
 👩‍💻 About Me
