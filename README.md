@@ -74,16 +74,6 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 - 💟 **Tools & Workflow:** Git · GitHub · VS Code · npm · Chrome DevTools  
 - 💟 **UI / UX & Design:** Figma · Prototyping · Wireframing · User-Centered Design  
 
----
-
-<br clear="both">
-
-<img align="left" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
-
-<br clear="both">
-<!-- Este es un comentario en README.md -->
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -114,10 +104,16 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
 </div>
 
+---
+
 <br clear="both">
 
+<img align="left" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
 <br clear="both">
+<!-- Este es un comentario en README.md -->
+
+
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
