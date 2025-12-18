@@ -2,9 +2,7 @@
 
 
 
-I’m a Web Developer and Systems and Computer Engineering student at Universidad Continental, with experience in frontend development and basic backend knowledge.  
-Passionate about technology and continuous learning, I enjoy building digital solutions that are accessible, functional, and user-centered.  
-Career goal: Grow as a Web / Frontend / Full Stack Developer, contributing to impactful projects while improving my skills.
+Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engineering student with a passion for building functional, accessible, and user-centered web experiences. Below, you'll find more about me, my skills, and the projects I'm working on.
 
 ---
 
