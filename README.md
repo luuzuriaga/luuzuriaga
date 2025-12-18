@@ -16,17 +16,10 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 🎨 Background in digital communication and design, bringing a user-focused mindset to development  
 🌱 Continuously learning and improving through bootcamps, projects, and real-world challenges
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luuzuriaga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuzuriaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <!-- Este es un comentario en README.md -->
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/@lu.uzuriaga" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" 
@@ -64,6 +57,15 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 ---
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luuzuriaga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuzuriaga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+---
+
 🛠️ Technical Skills
 
 - 💟 **Frontend Development:** HTML5 · CSS3 · JavaScript (ES6+) · React  
@@ -76,13 +78,13 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
 <br clear="both">
 <!-- Este es un comentario en README.md -->
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
