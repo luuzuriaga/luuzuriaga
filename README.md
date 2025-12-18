@@ -27,11 +27,11 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 🛠️ Technical Skills
 
-- ✅ **Frontend Development:** HTML5 · CSS3 · JavaScript (ES6+) · React  
-- ✅ **Backend Development:** Node.js · Express · Java · Spring Boot · SQL · MySQL  
-- ✅ **Styling & Layout:** Responsive Design · Flexbox · Grid · BEM Methodology  
-- ✅ **Tools & Workflow:** Git · GitHub · VS Code · npm · Chrome DevTools  
-- ✅ **UI / UX & Design:** Figma · Prototyping · Wireframing · User-Centered Design  
+- 💟 **Frontend Development:** HTML5 · CSS3 · JavaScript (ES6+) · React  
+- 💟 **Backend Development:** Node.js · Express · Java · Spring Boot · SQL · MySQL  
+- 💟 **Styling & Layout:** Responsive Design · Flexbox · Grid · BEM Methodology  
+- 💟 **Tools & Workflow:** Git · GitHub · VS Code · npm · Chrome DevTools  
+- 💟 **UI / UX & Design:** Figma · Prototyping · Wireframing · User-Centered Design  
 
 ---
 
