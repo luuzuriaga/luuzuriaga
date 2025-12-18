@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Lucero </h2>
 
-<br clear="both">
-<!-- Este es un comentario en README.md -->
+
 
 I’m a Web Developer and Systems and Computer Engineering student at Universidad Continental, with experience in frontend development and basic backend knowledge.  
 Passionate about technology and continuous learning, I enjoy building digital solutions that are accessible, functional, and user-centered.  
