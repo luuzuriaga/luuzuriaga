@@ -117,4 +117,10 @@ I’m a Web Developer with a strong foundation in Frontend Development and UX/UI
 
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
-###
+---
+
+📫 Let's Connect
+
+- 📧 Email: lucero.uzuriaga2020@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/lucerouzuriaga/  
+- 🌐 Portfolio: https://luuzuriaga.github.io/portfolio/
