@@ -7,6 +7,7 @@ I’m a Web Developer and Systems and Computer Engineering student at Universida
 I completed intensive bootcamps at TripleTen and Alura ONE, gaining hands-on experience in responsive design, UX/UI, and full web application development.  
 Passionate about technology and continuous learning, I enjoy building digital solutions that are accessible, functional, and user-centered.  
 Career goal: Grow as a Web / Frontend / Full Stack Developer, contributing to impactful projects while improving my skills.
+
 ---
 
 👩‍💻 About Me
