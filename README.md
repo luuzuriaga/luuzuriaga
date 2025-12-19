@@ -72,7 +72,6 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM_Methodology-000000?logo=css3&logoColor=white)
 
----
 
 ### **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -85,7 +84,6 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
----
 
 ### **Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
