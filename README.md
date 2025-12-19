@@ -77,7 +77,6 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?logo=postman&logoColor=white)
 ![API](https://img.shields.io/badge/API-005571?logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
