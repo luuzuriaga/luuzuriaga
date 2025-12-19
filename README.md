@@ -2,8 +2,7 @@
 
 
 
-Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engineering student with a passion for building functional, accessible, and user-centered web experiences. Below, you'll find more about me, my skills, and the projects I'm working on.
-
+Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer Engineering student, with a strong foundation in frontend development and basic backend knowledge. I have completed intensive training in web development and a backend bootcamp, where I gained hands-on experience in JavaScript, React, server-side development, APIs, and databases, focusing on building accessible, functional, and user-centered interfaces.
 ---
 
 👩‍💻 About Me
