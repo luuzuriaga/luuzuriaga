@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 
 <!-- Este es un comentario en README.md -->
 
----
+<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luuzuriaga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 
 
 
----
+<br clear="both">
 
 
 ## 🛠️ Technical Skills
