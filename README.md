@@ -99,18 +99,32 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 
 <br clear="both">
 
----
+
 
 <img align="left" height="150" src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif"  />
 
 
-
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
----
+### 🚀 Featured Projects  
 
+#### 1. News Explorer Website  
+- A React-based web application that allows users to search and save news articles, consuming real-time data from **NewsAPI**.  
+- **Tech Stack:** HTML, CSS, JavaScript, React, REST API, Git, GitHub, UX/UI  
+- [GitHub Repo](https://github.com/luuzuriaga/news-explorer-frontend)  
+
+#### 2. Around the US – Full Stack Project  
+- A full stack web application that enables users to share photos of places of interest, using a client–server architecture.  
+- **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, REST API, Git, GitHub, UX/UI  
+- [GitHub Repo](https://github.com/luuzuriaga/web_project_api_full)  
+
+### 📫 Let's Connect!  
+I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out!  
+- 📧 Email: lucero.uzuriaga2020@gmail.com
+- 💼 LinkedIn: [Lucero Uzuriaga](https://www.linkedin.com/in/lucerouzuriaga/)  
+- **Portfolio:** [Lucero's Portfolio](https://github.com/luuzuriaga)
 📫 Let's Connect
 
-- 📧 Email: lucero.uzuriaga2020@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/lucerouzuriaga/  
-- 🌐 Portfolio: https://luuzuriaga.github.io/portfolio/
+
+
+
