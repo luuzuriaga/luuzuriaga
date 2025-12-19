@@ -59,9 +59,8 @@ Welcome to my GitHub profile! I am a Web Developer and Systems and Computer Engi
 
 ---
 
-🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
