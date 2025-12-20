@@ -110,7 +110,8 @@ Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer En
 #### 1. News Explorer Website  
 - A React-based web application that allows users to search and save news articles, consuming real-time data from **NewsAPI**.  
 - **Tech Stack:** HTML, CSS, JavaScript, React, REST API, Git, GitHub, UX/UI  
-- [GitHub Repo](https://github.com/luuzuriaga/news-explorer-frontend)  
+- [GitHub Repo](https://github.com/luuzuriaga/news-explorer-frontend)
+- [Visit](https://news-explorer-frontend-lac.vercel.app/))
 
 #### 2. Around the US – Full Stack Project  
 - A full stack web application that enables users to share photos of places of interest, using a client–server architecture.  
