@@ -122,7 +122,7 @@ Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer En
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out!  
 - 📧 Email: lucero.uzuriaga2020@gmail.com
 - 💼 LinkedIn: [Lucero Uzuriaga](https://www.linkedin.com/in/lucerouzuriaga/)  
-- **Portfolio:** [Lucero's Portfolio](https://github.com/luuzuriaga)
+- **Portfolio:** [Lucero's Portfolio](https://portfoliolu.vercel.app/)
 📫 Let's Connect
 
 
