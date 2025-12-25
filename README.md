@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer En
     />
   </a>
 
-  <a href="https://luuzuriaga.github.io/portfolio/" target="_blank">
+  <a href="https://portfoliolu.vercel.app/" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=24292E&logoColor=white&style=for-the-badge" 
       height="35" 
