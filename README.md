@@ -116,7 +116,8 @@ Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer En
 #### 2. Around the US – Full Stack Project  
 - A full stack web application that enables users to share photos of places of interest, using a client–server architecture.  
 - **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, REST API, Git, GitHub, UX/UI  
-- [GitHub Repo](https://github.com/luuzuriaga/web_project_api_full)  
+- [GitHub Repo](https://github.com/luuzuriaga/web_project_api_full)
+- [Visit](https://around-us-eta.vercel.app/)
 
 ### 📫 Let's Connect!  
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out!  
