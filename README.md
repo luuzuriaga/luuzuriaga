@@ -29,8 +29,8 @@ frontend development with robust backend foundations.
 
 📊 NEURAL_SYNC_STATS (GitHub Analytics)
 <div align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dluuzuriaga%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" height="150" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dluuzuriaga%26layout%3Dcompact%26theme%3Dvivid%26hide_border%3Dtrue" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luuzuriaga&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Lucero Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luuzuriaga&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
 </div>
 
 🚀 ACTIVE_MISSIONS (Project Archives)
