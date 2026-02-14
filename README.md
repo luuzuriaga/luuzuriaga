@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋! My name is Lucero </h2>
 
-Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer Engineering student, with a strong foundation in frontend development and basic backend knowledge. I have completed intensive training in web development and a backend bootcamp, where I gained hands-on experience in JavaScript, React, server-side development, APIs, and databases, focusing on building accessible, functional, and user-centered interfaces.
+Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer Engineering student, with a strong foundation in frontend development and backend architecture. I have completed intensive training in web development and a backend bootcamp, where I gained hands-on experience in JavaScript, React, server-side development, APIs, and databases, focusing on building scalable, functional, and efficient technical solutions.
 
 ---
-
 
 ```text
 ===========================================================================
@@ -11,18 +10,12 @@ Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer En
 ===========================================================================
 > ACCESSING SUBJECT DATA...
 > SUBJECT: LUCERO UZURIAGA
-
+> FIELD: SYSTEMS AND COMPUTER ENGINEERING
+> SPECIALIZATION: FULL STACK DEVELOPMENT
+> LOCATION: LIMA, PERU
+> STATUS: ACTIVE_RESEARCH_AND_DEVELOPMENT
+===========================================================================
 ```
-👩‍💻 About Me
-🌍 Based in: Lima, Peru
-
-🎓 Education: Systems and Computer Engineering student
-
-💻 Experience: Web Developer (HTML, CSS, JS, React, UX/UI)
-
-🎨 Mindset: Digital communication & user-focused design
-
-🌱 Current: Continuously improving through bootcamps and real-world challenges
 
 
 📊 NEURAL_SYNC_STATS (GitHub Analytics)
