@@ -1,5 +1,6 @@
 <div align="center">
   <img src="./banner_gh.png" width="100%" />
+  <br>
   
   `---------------------------------------------------------------------------`
   ` [ SYSTEM_ACCESS: GRANTED ] [ UNIT_LUUZURIAGA: ONLINE ] `
