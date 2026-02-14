@@ -1,5 +1,9 @@
-<div align="left">
-  <img src="./banner_gh.png" width="100%" />
+<div align="center">
+  <img src="./banner_gh.png" width="100%" alt="Banner Lucero Uzuriaga" />
+  
+  `---------------------------------------------------------------------------`
+  ` [ SYSTEM_ACCESS: GRANTED ] [ UNIT_LUUZURIAGA: ONLINE ] `
+  `---------------------------------------------------------------------------`
 </div>
 
 <h2 align="left">Hi 👋! My name is Lucero </h2>
@@ -15,7 +19,7 @@ Welcome to my terminal. I am a **Systems and Computer Engineering student** and 
 > ACCESSING SUBJECT DATA...
 > SUBJECT: LUCERO UZURIAGA
 > FIELD: SYSTEMS AND COMPUTER ENGINEERING
-> SPECIALIZATION: FULL STACK DEVELOPMENT
+> SPECIALIZATION: FULL STACK ARCHITECTURE
 > LOCATION: LIMA, PERU
 > STATUS: ACTIVE_RESEARCH_AND_DEVELOPMENT
 ===========================================================================
