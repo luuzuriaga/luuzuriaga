@@ -33,26 +33,28 @@ $ get-projects --featured
 > 02. PROJECT_AROUND_THE_US: Node.js / Express / MongoDB / React
   [URL: [https://around-us-eta.vercel.app/](https://around-us-eta.vercel.app/)]
 
-📟 Establish Connection
+---
+
+### 📟 ESTABLISH_CONNECTION // EXTERNAL_LINKS
+
 <div align="left">
-<a href="https://www.linkedin.com/in/lucerouzuriaga/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="35" />
-</a>
-<a href="https://portfoliolu.vercel.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-24292E%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" height="35" />
-</a>
-<a href="mailto:lucero.uzuriaga2020@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
+  <a href="https://www.linkedin.com/in/lucerouzuriaga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfoliolu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:lucero.uzuriaga2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%" />
-<br />
-<img src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif" width="150" />
-<br />
-<code>[ LOGOUT SESSION... SUCCESSFUL ]</code>
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%" alt="Snake Animation" />
+  <br />
+  <img src="https://i.pinimg.com/originals/22/f2/48/22f248faad3fc30ee28570c56c3d6da0.gif" width="150" alt="Evangelion UI" />
+  <br />
+  <code>[ SESSION_TERMINATED... BYE ]</code>
 </div>
-
