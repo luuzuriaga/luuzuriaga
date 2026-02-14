@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="./banner_gh.png" width="100%" />
+  
+  `---------------------------------------------------------------------------`
+  ` [ SYSTEM_ACCESS: GRANTED ] [ UNIT_LUUZURIAGA: ONLINE ] `
+  `---------------------------------------------------------------------------`
+</div>
+
 <h2 align="left">Hi 👋! My name is Lucero </h2>
 
 Welcome to my terminal. I am a **Systems and Computer Engineering student** and **Full Stack Developer** dedicated to architecting high-performance web solutions. I have completed advanced technical specializations in full-stack software development, gaining deep proficiency in JavaScript, React, and server-side logic. My focus lies in the integration of RESTful APIs and database management to build scalable, functional, and highly efficient technical ecosystems.
