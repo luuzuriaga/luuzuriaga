@@ -1,10 +1,5 @@
 <div align="left">
   <img src="./banner_gh.png" width="100%" />
-  <br>
-  
-  `---------------------------------------------------------------------------`
-  ` [ SYSTEM_ACCESS: GRANTED ] [ UNIT_LUUZURIAGA: ONLINE ] `
-  `---------------------------------------------------------------------------`
 </div>
 
 <h2 align="left">Hi 👋! My name is Lucero </h2>
