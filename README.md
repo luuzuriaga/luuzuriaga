@@ -1,17 +1,18 @@
-<div align="center">
+<h2 align="left">Hi 👋! My name is Lucero </h2>
 
-# 📂 SYSTEM_ACCESS: UNIT_LUUZURIAGA
-    
-<div align="center">
-  <img src="[https://64.media.tumblr.com/tumblr_m379scSjM61r9px39o1_500.gif](https://64.media.tumblr.com/tumblr_m379scSjM61r9px39o1_500.gif)" width="100%" />
-</div>
+Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer Engineering student, with a strong foundation in frontend development and basic backend knowledge. I have completed intensive training in web development and a backend bootcamp, where I gained hands-on experience in JavaScript, React, server-side development, APIs, and databases, focusing on building accessible, functional, and user-centered interfaces.
 
+---
 
 
 ```text
 ===========================================================================
 [ TERMINAL ID: NERV-MAGI-01 ]          [ STATUS: SYNCHRONIZED ]
 ===========================================================================
+> ACCESSING SUBJECT DATA...
+> SUBJECT: LUCERO UZURIAGA
+
+``````
 
 > INITIALIZING INTERFACE...
 > LOADING PROFILE: LUCERO UZURIAGA
@@ -23,7 +24,7 @@ Welcome to my GitHub secure terminal. I focus on building accessible,
 functional, and user-centered interfaces. Specializing in high-sync 
 frontend development with robust backend foundations.
 ===========================================================================
-```
+
 
 🛠️ TECHNICAL_SPECIFICATIONS
 [ FRONTEND_MODULE ]
