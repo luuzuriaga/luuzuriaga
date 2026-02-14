@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Lucero </h2>
 
-Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer Engineering student, with a strong foundation in frontend development and backend architecture. I have completed intensive training in web development and a backend bootcamp, where I gained hands-on experience in JavaScript, React, server-side development, APIs, and databases, focusing on building scalable, functional, and efficient technical solutions.
+Welcome to my terminal. I am a **Systems and Computer Engineering student** and **Full Stack Developer** specialized in building high-performance web solutions. I have completed advanced technical specializations in full-stack architecture, focusing on the development of scalable server-side systems, RESTful APIs, and optimized databases. My approach combines rigorous engineering principles with modern technologies like React and Node.js to deliver robust, functional, and efficient technical ecosystems.
 
 ---
 
