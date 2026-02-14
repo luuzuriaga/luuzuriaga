@@ -2,7 +2,9 @@
 
 # 📂 SYSTEM_ACCESS: UNIT_LUUZURIAGA
     
-![Header](https://capsule-render.vercel.app/render?type=kashida&color=f97316&height=100&section=header&text=DECRYPTING_BIO...&fontSize=50&fontColor=000)
+<div align="center">
+  <img src="[https://64.media.tumblr.com/tumblr_m379scSjM61r9px39o1_500.gif](https://64.media.tumblr.com/tumblr_m379scSjM61r9px39o1_500.gif)" width="100%" />
+</div>
 
 </div>
 
