@@ -23,7 +23,7 @@ Welcome to my terminal. I am a **Systems and Computer Engineering student** and 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luuzuriaga&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Lucero Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luuzuriaga&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
 </div>
-
+<br>
 🚀 ACTIVE_MISSIONS (Project Archives)
 
 $ get-projects --featured
