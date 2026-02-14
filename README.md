@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Lucero </h2>
 
-Welcome to my terminal. I am a **Systems and Computer Engineering student** and **Full Stack Developer** specialized in building high-performance web solutions. I have completed advanced technical specializations in full-stack architecture, focusing on the development of scalable server-side systems, RESTful APIs, and optimized databases. My approach combines rigorous engineering principles with modern technologies like React and Node.js to deliver robust, functional, and efficient technical ecosystems.
+Welcome to my terminal. I am a **Systems and Computer Engineering student** and **Full Stack Developer** dedicated to architecting high-performance web solutions. I have completed advanced technical specializations in full-stack software development, gaining deep proficiency in JavaScript, React, and server-side logic. My focus lies in the integration of RESTful APIs and database management to build scalable, functional, and highly efficient technical ecosystems.
 
 ---
 
