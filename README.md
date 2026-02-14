@@ -39,6 +39,22 @@ $ get-projects --featured
 
 ---
 
+🛠️ Technical Specifications
+[ SOFTWARE_ENGINEERING_MODULES ]
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" />
+</p>
+
+[ SERVER_SIDE_&_SYSTEMS ]
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,postgres" />
+</p>
+
+[ DEV_ENVIRONMENT_&_TOOLS ]
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,webpack,vscode,npm,figma" />
+</p>
+
 ### 📟 ESTABLISH_CONNECTION // EXTERNAL_LINKS
 
 <div align="left">
