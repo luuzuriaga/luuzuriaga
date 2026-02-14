@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="./banner_gh.png" width="100%" />
   <br>
   
