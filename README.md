@@ -12,23 +12,18 @@ Welcome to my GitHub profile! I am a Web Developer and a Systems and Computer En
 > ACCESSING SUBJECT DATA...
 > SUBJECT: LUCERO UZURIAGA
 
-``````
+```
+👩‍💻 About Me
+🌍 Based in: Lima, Peru
 
-> INITIALIZING INTERFACE...
-> LOADING PROFILE: LUCERO UZURIAGA
-> ROLE: FULL STACK DEVELOPER JR / SYSTEMS ENGINEERING STUDENT
-> LOCATION: LIMA, PERU (NEO-LIMA SECTOR)
+🎓 Education: Systems and Computer Engineering student
 
-[ DESCRIPTION ]
-Welcome to my GitHub secure terminal. I focus on building accessible, 
-functional, and user-centered interfaces. Specializing in high-sync 
-frontend development with robust backend foundations.
-===========================================================================
+💻 Experience: Web Developer (HTML, CSS, JS, React, UX/UI)
 
+🎨 Mindset: Digital communication & user-focused design
 
-🛠️ TECHNICAL_SPECIFICATIONS
-[ FRONTEND_MODULE ]
-[ BACKEND_CORE ]
+🌱 Current: Continuously improving through bootcamps and real-world challenges
+
 
 📊 NEURAL_SYNC_STATS (GitHub Analytics)
 <div align="left">
